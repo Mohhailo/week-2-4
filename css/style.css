@@ -15,7 +15,7 @@ html{
     align-items: center;
     height: 65vh;
     margin-top: 5rem;
-   background: linear-gradient(to right, rgba(10.5, 31.5, 52.5, 1) calc((50vw - 170px) - 340px), rgba(10.5, 31.5, 52.5, 0.84) 50%, rgba(10.5, 31.5, 52.5, 0.84) 100%),
+   background: linear-gradient(to right, rgba(184, 198, 230, 0.973) calc((50vw - 170px) - 340px), rgba(10.5, 31.5, 52.5, 0.84) 50%, rgba(10.5, 31.5, 52.5, 0.84) 100%),
    url('../images/background.jpg');
    background-size: cover;
 }
